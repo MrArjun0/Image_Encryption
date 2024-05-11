@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Image_Encryption</string>
+
+
+    <string name="photo_secure_string">Photo Secure</string>
+
+   <string name = "photo_secure_string_2">Image Encryption Decryption</string>
+
+   <string name = "image_encrypt">Encrypt</string>
+    <string name="image_decrypt">Decrypt</string>
+    <string name="hint">Enter Your Copied text here</string>
+    <string name="_copy">Copy Code</string>
+    <string name="todo">TODO</string>
+    <string name="your_image">Your Image</string>
+    <string name="encryption_logo">Encryption_logo</string>
+    <string name="Encryption_Image">Image_encrypted</string>
+
+
+</resources>
